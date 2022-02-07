@@ -1,0 +1,67 @@
+.App {
+    text-align: center;
+ height: 100% ;
+  }
+  .formbg {
+  width: 600px;
+
+  }
+table{
+    margin: auto;
+    border: 3px solid #75caca;
+    border-radius: 10px;
+    /*border-collapse: collapse;*/
+    width: 100%;
+
+  }
+  .mainform{
+      background-color: #75caca;
+  }
+.th{
+  background-color: #75caca;
+
+}
+
+  td{
+    padding: 10px;
+
+  }
+  input[type=text], [type=number]{
+    width: 100%;
+  }
+  button{
+      padding: 20px;
+      width: 100%;
+  }
+  button:hover{
+      cursor: pointer;
+  }
+  .link{
+    text-decoration: none;
+    color: black;
+}
+p{
+    border: 1px solid grey;
+}
+.tabledata {
+ background-color: #eef5f5;
+}
+
+.btnbg {
+  color: black;
+  text-align: center;
+}
+.btnbg:hover {
+  color: #37bc9b;
+}
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
+.navbar-brand{
+
+  position:absolute;
+}
